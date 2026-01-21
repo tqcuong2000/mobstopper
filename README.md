@@ -8,9 +8,9 @@ This datapack does **not** disable the mob’s AI. The mob can still look around
 
 ## When to use this
 
-- Keep mobs in place for decoration builds
-- Move villagers to a spot, then prevent them from wandering
-- Hold a mob in place without fences, blocks, or boats
+- Keep mobs in place for decoration builds.
+- Transport villagers to their ~~cage~~ work station. 
+- Hold a mob in place without fences, blocks, or boats.
 
 ## How to use
 
