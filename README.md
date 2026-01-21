@@ -34,6 +34,6 @@ After you make a mob static, you can rename it without removing the effect. Use 
 You can block specific mob types from being stopped. This helps prevent players from using the datapack on mobs you want to keep mobile.
 
 1. Open this file in the datapack:
-   - `mobstopper/data/mobstopper/tags/entity/blacklist.json`
+   - `mobstopper/data/mobstopper/tags/entity_type/blacklist.json`
 2. Add the entity IDs you want to blacklist.
 3. Save the file, then reload your datapack.
